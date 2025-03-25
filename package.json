@@ -1,0 +1,21 @@
+{
+    "name": "com.meshifai.ai",
+    "version": "1.0.0",
+    "displayName": "MeshifAI 3D Generator",
+    "description": "A tool for generating 3D models from text descriptions using MeshifAI API",
+    "unity": "2020.3",
+    "dependencies": {
+      "com.atteneder.gltfast": "5.0.0"
+    },
+    "keywords": [
+      "ai",
+      "3d",
+      "model",
+      "generator"
+    ],
+    "author": {
+      "name": "0xRetroDev",
+      "email": "hello@0xretro.dev",
+      "url": "https://0xretro.dev"
+    }
+  }
