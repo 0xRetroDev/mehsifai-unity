@@ -74,10 +74,6 @@ void OnGenerationStatus(string status, float progress) {
 }
 ```
 
-### Interactive Demo
-
-Try the included Interactive Demo scene to experience the power of MeshifAI. Walk around in first-person view, point at surfaces, and generate models where you click!
-
 ## System Requirements
 
 - Unity 2020.3 or higher
@@ -86,12 +82,9 @@ Try the included Interactive Demo scene to experience the power of MeshifAI. Wal
 
 ## License
 
-[Include your license information here]
+MIT
 
 ## Support
 
-For support requests, please [contact us](mailto:support@meshifai.com) or [open an issue](https://github.com/yourusername/meshifai/issues) on GitHub.
+For support requests, please [contact us](mailto:hello@0xretro.dev) or open an issue.
 
----
-
-Made with ❤️ by [Your Company/Name]
