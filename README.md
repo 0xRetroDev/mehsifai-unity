@@ -1,5 +1,7 @@
 # MeshifAI for Unity
 
+AI-powered tools for 3D model generation within the Unity Engine
+
 ![Untitledvideo-MadewithClipchamp12-ezgif com-optimize](https://github.com/user-attachments/assets/9db86905-4a6e-46fe-85f6-96f1e2708740)
 
 
